@@ -19,7 +19,7 @@ public class Hello {
 		Hello hello=new Hello();
 		hello.setName("Sowmiii");
 		
-		System.out.println("Haiii"+ hello.getName());
+		System.out.println("Hello"+ hello.getName());
 	}
 	
 
