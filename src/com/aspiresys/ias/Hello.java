@@ -18,9 +18,9 @@ public class Hello {
 	public static void main (String args[])
 	{
 		Hello hello=new Hello();
-		hello.setName("Sowmi");
+		hello.setName("Sowmiya");
 		
-		System.out.println("Hi "+ hello.getName());
+		System.out.println("Haiii"+ hello.getName());
 	}
 	
 
